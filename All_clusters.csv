@@ -1,90 +1,90 @@
- ,Borough,Neighbourhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,Postal Code
-M4A,North York,Victoria Village,43.73057,-79.31306,2,Asian,Portuguese,European,
-M5A,Downtown Toronto,"Regent Park, Harbourfront",43.65512,-79.36264,2,Japanese,Thai,Mediterranean,
-M6A,North York,"Lawrence Manor, Lawrence Heights",43.72327,-79.45042,2,American,Japanese,Asian,
-M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.66253,-79.39188,2,Italian,Japanese,Vietnamese,
-M3B,North York,Don Mills,43.74923,-79.36186,2,Japanese,Indian,South American,
-M4B,East York,"Parkview Hill, Woodbine Gardens",43.70718,-79.31192,2,Indian,American,Asian,
-M5B,Downtown Toronto,"Garden District, Ryerson",43.65739,-79.37804,2,Japanese,Thai,Spanish,
-M6B,North York,Glencairn,43.70687,-79.44812,2,South American,Japanese,Italian,
-M9B,Etobicoke,"West Deane Park, Princess Gardens, Martin Grov...",43.65034,-79.55362,6,Middle Eastern,Chinese,Filipino,
-M3C,North York,Don Mills,43.72168,-79.34352,2,Japanese,Indian,South American,
-M4C,East York,Woodbine Heights,43.6897,-79.30682,5,Middle Eastern,Japanese,Greek,
-M5C,Downtown Toronto,St. James Town,43.65215,-79.37587,6,Middle Eastern,American,Japanese,
-M9C,Etobicoke,"Eringate, Bloordale Gardens, Old Burnhamthorpe...",43.64857,-79.57825,0,Chinese,Vietnamese,Turkish,
-M4E,East Toronto,The Beaches,43.67709,-79.29547,6,Asian,Middle Eastern,Vietnamese,
-M5E,Downtown Toronto,Berczy Park,43.64536,-79.37306,2,Indian,Thai,European,
-M6E,York,Caledonia-Fairbanks,43.68784,-79.45046,2,Thai,Portuguese,Mexican,
-M1G,Scarborough,Woburn,43.76812,-79.21761,2,Indian,Mexican,Korean,
-M4G,East York,Leaside,43.70902,-79.36349,5,Japanese,American,Middle Eastern,
-M5G,Downtown Toronto,Central Bay Street,43.65609,-79.38493,2,Thai,American,Asian,
-M6G,Downtown Toronto,Christie,43.66869,-79.42071,4,Korean,Vietnamese,African,
-M1H,Scarborough,Cedarbrae,43.76944,-79.23892,2,Thai,Caribbean,Chinese,
-M2H,North York,Hillcrest Village,43.80225,-79.35558,0,Chinese,Japanese,Vietnamese,
-M3H,North York,"Bathurst Manor, Wilson Heights, Downsview North",43.75788,-79.44847,6,Middle Eastern,Mediterranean,Korean,
-M4H,East York,Thorncliffe Park,43.70142,-79.34905,6,Indian,Middle Eastern,African,
-M5H,Downtown Toronto,"Richmond, Adelaide, King",43.6497,-79.38258,2,Thai,South American,Japanese,
-M6H,West Toronto,"Dufferin, Dovercourt Village",43.66505,-79.43891,6,Middle Eastern,Vietnamese,Portuguese,
-M1J,Scarborough,Scarborough Village,43.74446,-79.23117,6,Indian,Middle Eastern,Greek,
-M2J,North York,"Fairview, Henry Farm, Oriole",43.78097,-79.34781,2,Cantonese,Japanese,Indian,
-M3J,North York,"Northwood Park, York University",43.76476,-79.48798,2,Middle Eastern,Caribbean,Vietnamese,
-M4J,East York,"East Toronto, Broadview North (Old East York)",43.68811,-79.33418,2,Greek,Indian,Thai,
-M5J,Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands",43.64285,-79.38076,0,Chinese,Japanese,Vietnamese,
-M6J,West Toronto,"Little Portugal, Trinity",43.64848,-79.41774,2,American,Vietnamese,Greek,
-M1K,Scarborough,"Kennedy Park, Ionview, East Birchmount Park",43.72582,-79.26461,2,Indian,Asian,Chinese,
-M2K,North York,Bayview Village,43.78112,-79.3806,2,Asian,Vietnamese,Turkish,
-M3K,North York,Downsview,43.73384,-79.46828,2,Caribbean,Vietnamese,Chinese,
-M4K,East Toronto,"The Danforth West, Riverdale",43.68375,-79.35512,2,Greek,Indian,Thai,
-M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471,-79.38153,2,Thai,South American,Japanese,
-M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.63941,-79.42676,3,Spanish,French,Vietnamese,
-M1L,Scarborough,"Golden Mile, Clairlea, Oakridge",43.71289,-79.28506,0,Indian,Chinese,Turkish,
-M3L,North York,Downsview,43.72071,-79.51701,2,Caribbean,Vietnamese,Chinese,
-M4L,East Toronto,"India Bazaar, The Beaches West",43.66797,-79.31467,2,Indian,Middle Eastern,Caribbean,
-M5L,Downtown Toronto,"Commerce Court, Victoria Hotel",43.6484,-79.37914,2,Thai,South American,Italian,
-M9L,North York,Humber Summit,43.75948,-79.55707,1,Caribbean,Italian,Vietnamese,
-M1M,Scarborough,"Cliffside, Cliffcrest, Scarborough Village West",43.7236,-79.23496,2,Thai,Chinese,Italian,
-M2M,North York,"Willowdale, Newtonbrook",43.79182,-79.41372,4,Korean,Middle Eastern,Chinese,
-M3M,North York,Downsview,43.73224,-79.50178,2,Caribbean,Vietnamese,Chinese,
-M4M,East Toronto,Studio District,43.66213,-79.33497,2,Italian,Spanish,South American,
-M5M,North York,"Bedford Park, Lawrence Manor East",43.73545,-79.41916,2,Japanese,Italian,Filipino,
-M6M,York,"Del Ray, Mount Dennis, Keelsdale and Silverthorn",43.69517,-79.48397,1,Caribbean,Vietnamese,Turkish,
-M9M,North York,"Humberlea, Emery",43.73367,-79.53769,2,African,Vietnamese,Turkish,
-M1N,Scarborough,"Birch Cliff, Cliffside West",43.6951,-79.26466,5,Japanese,Vietnamese,Greek,
-M2N,North York,"Willowdale, Willowdale East",43.76774,-79.40728,5,Japanese,Middle Eastern,Mexican,
-M3N,North York,Downsview,43.75478,-79.51959,2,Caribbean,Vietnamese,Chinese,
-M4N,Central Toronto,Lawrence Park,43.72843,-79.38713,2,Cantonese,Vietnamese,Turkish,
-M6N,York,"Runnymede, The Junction North",43.67646,-79.48272,1,Caribbean,Vietnamese,Turkish,
-M9N,York,Weston,43.70507,-79.51804,1,Caribbean,Afghan,Thai,
-M1P,Scarborough,"Dorset Park, Wexford Heights, Scarborough Town...",43.75998,-79.2694,5,Asian,Japanese,Vietnamese,
-M2P,North York,York Mills West,43.74778,-79.40033,4,Korean,Vietnamese,Greek,
-M4P,Central Toronto,Davisville North,43.71276,-79.38851,2,American,Japanese,Thai,
-M5P,Central Toronto,"Forest Hill North & West, Forest Hill Road Park",43.69479,-79.4144,3,French,Vietnamese,Turkish,
-M9P,Etobicoke,Westmount,43.6963,-79.52926,2,Thai,Middle Eastern,Chinese,
-M1R,Scarborough,"Wexford, Maryvale",43.75075,-79.30054,6,Middle Eastern,Vietnamese,Greek,
-M4R,Central Toronto,"North Toronto West, Lawrence Park",43.71458,-79.40668,2,Italian,Chinese,Japanese,
-M5R,Central Toronto,"The Annex, North Midtown, Yorkville",43.67484,-79.40452,2,Japanese,French,African,
-M6R,West Toronto,"Parkdale, Roncesvalles",43.64777,-79.44989,2,Japanese,Thai,South American,
-M7R,Mississauga,Canada Post Gateway Processing Centre,43.64869,-79.38544,5,Mexican,Japanese,Thai,
-M1S,Scarborough,Agincourt,43.79452,-79.26708,0,Chinese,Vietnamese,Cantonese,
-M4S,Central Toronto,Davisville,43.7034,-79.38659,2,Italian,Thai,American,
-M5S,Downtown Toronto,"University of Toronto, Harbord",43.66311,-79.4018,2,Indian,Japanese,Italian,
-M6S,West Toronto,"Runnymede, Swansea",43.64982,-79.47548,2,Japanese,Middle Eastern,Italian,
-M1T,Scarborough,"Clarks Corners, Tam O'Shanter, Sullivan",43.78491,-79.29722,2,Chinese,Indian,Asian,
-M4T,Central Toronto,"Moore Park, Summerhill East",43.69048,-79.38318,2,Thai,Japanese,Italian,
-M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.65351,-79.39722,0,Chinese,Japanese,Cantonese,
-M1V,Scarborough,"Milliken, Agincourt North, Steeles East, L'Amo...",43.81781,-79.28044,5,Japanese,Vietnamese,Greek,
-M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest...",43.68568,-79.40237,2,Italian,American,Vietnamese,
-M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Har...",43.64082,-79.39818,2,Mexican,Japanese,Italian,
-M8V,Etobicoke,"New Toronto, Mimico South, Humber Bay Shores",43.60987,-79.49809,5,Asian,Japanese,Vietnamese,
-M9V,Etobicoke,"South Steeles, Silverstone, Humbergate, Jamest...",43.74453,-79.58624,2,Caribbean,Indian,Mexican,
-M1W,Scarborough,"Steeles West, L'Amoreaux West",43.80079,-79.32162,0,Chinese,Indian,Middle Eastern,
-M5W,Downtown Toronto,Stn A PO Boxes,43.64869,-79.38544,5,Mexican,Japanese,Thai,
-M8W,Etobicoke,"Alderwood, Long Branch",43.60124,-79.53879,2,Asian,Indian,Thai,
-M9W,Etobicoke,"Northwest, West Humber - Clairville",43.71174,-79.57941,2,African,Middle Eastern,Caribbean,
-M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.66788,-79.36649,2,Indian,Italian,Thai,
-M5X,Downtown Toronto,"First Canadian Place, Underground city",43.64828,-79.38146,2,Thai,South American,Japanese,
-M8X,Etobicoke,"The Kingsway, Montgomery Road, Old Mill North",43.65319,-79.51113,3,Spanish,Vietnamese,Greek,
-M4Y,Downtown Toronto,Church and Wellesley,43.66659,-79.38133,2,Japanese,Thai,Vietnamese,
-M7Y,East Toronto,"Business reply mail Processing Centre, South C...",43.64869,-79.38544,5,Mexican,Japanese,Thai,
-M8Y,Etobicoke,"Old Mill South, King's Mill Park, Sunnylea, Hu...",43.63278,-79.48945,2,Thai,Chinese,Japanese,
-M8Z,Etobicoke,"Mimico NW, The Queensway West, South of Bloor,...",43.62513,-79.52681,2,Thai,Indian,Asian,
+Postal Code,Borough,Neighbourhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue
+M4A,North York,Victoria Village,43.73057,-79.31306,2,Asian,Portuguese,European
+M5A,Downtown Toronto,"Regent Park, Harbourfront",43.65512,-79.36264,2,Japanese,Thai,Mediterranean
+M6A,North York,"Lawrence Manor, Lawrence Heights",43.72327,-79.45042,2,American,Japanese,Asian
+M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.66253,-79.39188,2,Italian,Japanese,Vietnamese
+M3B,North York,Don Mills,43.74923,-79.36186,2,Japanese,Indian,South American
+M4B,East York,"Parkview Hill, Woodbine Gardens",43.70718,-79.31192,2,Indian,American,Asian
+M5B,Downtown Toronto,"Garden District, Ryerson",43.65739,-79.37804,2,Japanese,Thai,Spanish
+M6B,North York,Glencairn,43.70687,-79.44812,2,South American,Japanese,Italian
+M9B,Etobicoke,"West Deane Park, Princess Gardens, Martin Grov...",43.65034,-79.55362,6,Middle Eastern,Chinese,Filipino
+M3C,North York,Don Mills,43.72168,-79.34352,2,Japanese,Indian,South American
+M4C,East York,Woodbine Heights,43.6897,-79.30682,5,Middle Eastern,Japanese,Greek
+M5C,Downtown Toronto,St. James Town,43.65215,-79.37587,6,Middle Eastern,American,Japanese
+M9C,Etobicoke,"Eringate, Bloordale Gardens, Old Burnhamthorpe...",43.64857,-79.57825,0,Chinese,Vietnamese,Turkish
+M4E,East Toronto,The Beaches,43.67709,-79.29547,6,Asian,Middle Eastern,Vietnamese
+M5E,Downtown Toronto,Berczy Park,43.64536,-79.37306,2,Indian,Thai,European
+M6E,York,Caledonia-Fairbanks,43.68784,-79.45046,2,Thai,Portuguese,Mexican
+M1G,Scarborough,Woburn,43.76812,-79.21761,2,Indian,Mexican,Korean
+M4G,East York,Leaside,43.70902,-79.36349,5,Japanese,American,Middle Eastern
+M5G,Downtown Toronto,Central Bay Street,43.65609,-79.38493,2,Thai,American,Asian
+M6G,Downtown Toronto,Christie,43.66869,-79.42071,4,Korean,Vietnamese,African
+M1H,Scarborough,Cedarbrae,43.76944,-79.23892,2,Thai,Caribbean,Chinese
+M2H,North York,Hillcrest Village,43.80225,-79.35558,0,Chinese,Japanese,Vietnamese
+M3H,North York,"Bathurst Manor, Wilson Heights, Downsview North",43.75788,-79.44847,6,Middle Eastern,Mediterranean,Korean
+M4H,East York,Thorncliffe Park,43.70142,-79.34905,6,Indian,Middle Eastern,African
+M5H,Downtown Toronto,"Richmond, Adelaide, King",43.6497,-79.38258,2,Thai,South American,Japanese
+M6H,West Toronto,"Dufferin, Dovercourt Village",43.66505,-79.43891,6,Middle Eastern,Vietnamese,Portuguese
+M1J,Scarborough,Scarborough Village,43.74446,-79.23117,6,Indian,Middle Eastern,Greek
+M2J,North York,"Fairview, Henry Farm, Oriole",43.78097,-79.34781,2,Cantonese,Japanese,Indian
+M3J,North York,"Northwood Park, York University",43.76476,-79.48798,2,Middle Eastern,Caribbean,Vietnamese
+M4J,East York,"East Toronto, Broadview North (Old East York)",43.68811,-79.33418,2,Greek,Indian,Thai
+M5J,Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands",43.64285,-79.38076,0,Chinese,Japanese,Vietnamese
+M6J,West Toronto,"Little Portugal, Trinity",43.64848,-79.41774,2,American,Vietnamese,Greek
+M1K,Scarborough,"Kennedy Park, Ionview, East Birchmount Park",43.72582,-79.26461,2,Indian,Asian,Chinese
+M2K,North York,Bayview Village,43.78112,-79.3806,2,Asian,Vietnamese,Turkish
+M3K,North York,Downsview,43.73384,-79.46828,2,Caribbean,Vietnamese,Chinese
+M4K,East Toronto,"The Danforth West, Riverdale",43.68375,-79.35512,2,Greek,Indian,Thai
+M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471,-79.38153,2,Thai,South American,Japanese
+M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.63941,-79.42676,3,Spanish,French,Vietnamese
+M1L,Scarborough,"Golden Mile, Clairlea, Oakridge",43.71289,-79.28506,0,Indian,Chinese,Turkish
+M3L,North York,Downsview,43.72071,-79.51701,2,Caribbean,Vietnamese,Chinese
+M4L,East Toronto,"India Bazaar, The Beaches West",43.66797,-79.31467,2,Indian,Middle Eastern,Caribbean
+M5L,Downtown Toronto,"Commerce Court, Victoria Hotel",43.6484,-79.37914,2,Thai,South American,Italian
+M9L,North York,Humber Summit,43.75948,-79.55707,1,Caribbean,Italian,Vietnamese
+M1M,Scarborough,"Cliffside, Cliffcrest, Scarborough Village West",43.7236,-79.23496,2,Thai,Chinese,Italian
+M2M,North York,"Willowdale, Newtonbrook",43.79182,-79.41372,4,Korean,Middle Eastern,Chinese
+M3M,North York,Downsview,43.73224,-79.50178,2,Caribbean,Vietnamese,Chinese
+M4M,East Toronto,Studio District,43.66213,-79.33497,2,Italian,Spanish,South American
+M5M,North York,"Bedford Park, Lawrence Manor East",43.73545,-79.41916,2,Japanese,Italian,Filipino
+M6M,York,"Del Ray, Mount Dennis, Keelsdale and Silverthorn",43.69517,-79.48397,1,Caribbean,Vietnamese,Turkish
+M9M,North York,"Humberlea, Emery",43.73367,-79.53769,2,African,Vietnamese,Turkish
+M1N,Scarborough,"Birch Cliff, Cliffside West",43.6951,-79.26466,5,Japanese,Vietnamese,Greek
+M2N,North York,"Willowdale, Willowdale East",43.76774,-79.40728,5,Japanese,Middle Eastern,Mexican
+M3N,North York,Downsview,43.75478,-79.51959,2,Caribbean,Vietnamese,Chinese
+M4N,Central Toronto,Lawrence Park,43.72843,-79.38713,2,Cantonese,Vietnamese,Turkish
+M6N,York,"Runnymede, The Junction North",43.67646,-79.48272,1,Caribbean,Vietnamese,Turkish
+M9N,York,Weston,43.70507,-79.51804,1,Caribbean,Afghan,Thai
+M1P,Scarborough,"Dorset Park, Wexford Heights, Scarborough Town...",43.75998,-79.2694,5,Asian,Japanese,Vietnamese
+M2P,North York,York Mills West,43.74778,-79.40033,4,Korean,Vietnamese,Greek
+M4P,Central Toronto,Davisville North,43.71276,-79.38851,2,American,Japanese,Thai
+M5P,Central Toronto,"Forest Hill North & West, Forest Hill Road Park",43.69479,-79.4144,3,French,Vietnamese,Turkish
+M9P,Etobicoke,Westmount,43.6963,-79.52926,2,Thai,Middle Eastern,Chinese
+M1R,Scarborough,"Wexford, Maryvale",43.75075,-79.30054,6,Middle Eastern,Vietnamese,Greek
+M4R,Central Toronto,"North Toronto West, Lawrence Park",43.71458,-79.40668,2,Italian,Chinese,Japanese
+M5R,Central Toronto,"The Annex, North Midtown, Yorkville",43.67484,-79.40452,2,Japanese,French,African
+M6R,West Toronto,"Parkdale, Roncesvalles",43.64777,-79.44989,2,Japanese,Thai,South American
+M7R,Mississauga,Canada Post Gateway Processing Centre,43.64869,-79.38544,5,Mexican,Japanese,Thai
+M1S,Scarborough,Agincourt,43.79452,-79.26708,0,Chinese,Vietnamese,Cantonese
+M4S,Central Toronto,Davisville,43.7034,-79.38659,2,Italian,Thai,American
+M5S,Downtown Toronto,"University of Toronto, Harbord",43.66311,-79.4018,2,Indian,Japanese,Italian
+M6S,West Toronto,"Runnymede, Swansea",43.64982,-79.47548,2,Japanese,Middle Eastern,Italian
+M1T,Scarborough,"Clarks Corners, Tam O'Shanter, Sullivan",43.78491,-79.29722,2,Chinese,Indian,Asian
+M4T,Central Toronto,"Moore Park, Summerhill East",43.69048,-79.38318,2,Thai,Japanese,Italian
+M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.65351,-79.39722,0,Chinese,Japanese,Cantonese
+M1V,Scarborough,"Milliken, Agincourt North, Steeles East, L'Amo...",43.81781,-79.28044,5,Japanese,Vietnamese,Greek
+M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest...",43.68568,-79.40237,2,Italian,American,Vietnamese
+M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Har...",43.64082,-79.39818,2,Mexican,Japanese,Italian
+M8V,Etobicoke,"New Toronto, Mimico South, Humber Bay Shores",43.60987,-79.49809,5,Asian,Japanese,Vietnamese
+M9V,Etobicoke,"South Steeles, Silverstone, Humbergate, Jamest...",43.74453,-79.58624,2,Caribbean,Indian,Mexican
+M1W,Scarborough,"Steeles West, L'Amoreaux West",43.80079,-79.32162,0,Chinese,Indian,Middle Eastern
+M5W,Downtown Toronto,Stn A PO Boxes,43.64869,-79.38544,5,Mexican,Japanese,Thai
+M8W,Etobicoke,"Alderwood, Long Branch",43.60124,-79.53879,2,Asian,Indian,Thai
+M9W,Etobicoke,"Northwest, West Humber - Clairville",43.71174,-79.57941,2,African,Middle Eastern,Caribbean
+M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.66788,-79.36649,2,Indian,Italian,Thai
+M5X,Downtown Toronto,"First Canadian Place, Underground city",43.64828,-79.38146,2,Thai,South American,Japanese
+M8X,Etobicoke,"The Kingsway, Montgomery Road, Old Mill North",43.65319,-79.51113,3,Spanish,Vietnamese,Greek
+M4Y,Downtown Toronto,Church and Wellesley,43.66659,-79.38133,2,Japanese,Thai,Vietnamese
+M7Y,East Toronto,"Business reply mail Processing Centre, South C...",43.64869,-79.38544,5,Mexican,Japanese,Thai
+M8Y,Etobicoke,"Old Mill South, King's Mill Park, Sunnylea, Hu...",43.63278,-79.48945,2,Thai,Chinese,Japanese
+M8Z,Etobicoke,"Mimico NW, The Queensway West, South of Bloor,...",43.62513,-79.52681,2,Thai,Indian,Asian
