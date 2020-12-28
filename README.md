@@ -2,7 +2,7 @@
 Project for IBM Applied Data Science Capstone 
 
 The maps do not display properly in Github.
-To view this project with the maps displayed, use thses notebook viewer links:
+To view this project with the maps displayed, use these notebook viewer links:
 
 Part 1 - The precursor to the final project (Gathering neighborhood coordinates and learning to use FourSquare API)
 https://nbviewer.jupyter.org/github/Ayy753/Coursera_Capstone/blob/main/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto.ipynb
