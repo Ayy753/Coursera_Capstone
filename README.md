@@ -12,4 +12,4 @@ https://nbviewer.jupyter.org/github/Ayy753/Coursera_Capstone/blob/main/Capstone%
 
 Report: https://github.com/Ayy753/Coursera_Capstone/blob/main/report.pdf
 
-Presentation: https://github.com/Ayy753/Coursera_Capstone/blob/main/Presentation.pptx
+Presentation: https://github.com/Ayy753/Coursera_Capstone/raw/main/Presentation.pptx
